@@ -1,15 +1,15 @@
 cabal-version: 3.0
-name: plutus-core
+name: plutus-conformance
 version: 1.0.0.0
 license: Apache-2.0
 license-files:
   LICENSE
   NOTICE
-maintainer: michael.peyton-jones@iohk.io
+maintainer: Plutus Core Team
 author: Plutus Core Team
-synopsis: Language library for Plutus Core
+synopsis: Conformance Test Suite for Plutus Core
 description:
-    Pretty-printer, parser, and typechecker for Plutus Core.
+    Comprehensive Conformance Test Suite for Plutus Core.
 category: Language, Plutus
 build-type: Simple
 extra-doc-files: README.md
